@@ -33,7 +33,7 @@ int main(int argc, char **argv)
         cout << "uMAC Overseer v0.1 - ViR Dash (ViRb3) - 2017\n";
         cout << "Usage: " << argv[0] << " MAC_ADDR [-v] [-b /ex/skipfile.ext /ex/sub/skipfile2.ext ...]\n";
         cout << "MAC_ADDR	format: AABBCCDDEEFF\n";
-        cout << "-v			Verbose output\n";
+        cout << "-v			verbose output\n";
         cout << "-b			blacklisted paths to skip\n";
         return 0;
     }
