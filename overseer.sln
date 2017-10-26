@@ -1,0 +1,27 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "overseer", "overseer\overseer.vcxproj", "{190F9059-81E7-464D-9E79-5C61AF23D96C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190F9059-81E7-464D-9E79-5C61AF23D96C}.Debug|x64.ActiveCfg = Debug|Win32
+		{190F9059-81E7-464D-9E79-5C61AF23D96C}.Debug|x86.ActiveCfg = Debug|Win32
+		{190F9059-81E7-464D-9E79-5C61AF23D96C}.Debug|x86.Build.0 = Debug|Win32
+		{190F9059-81E7-464D-9E79-5C61AF23D96C}.Release|x64.ActiveCfg = Release|Win32
+		{190F9059-81E7-464D-9E79-5C61AF23D96C}.Release|x86.ActiveCfg = Release|Win32
+		{190F9059-81E7-464D-9E79-5C61AF23D96C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {879E42F6-3C73-485A-8CD5-13E0F018DFB4}
+	EndGlobalSection
+EndGlobal
